@@ -11,7 +11,7 @@ const ConectUs = () => {
         alignItems: 'center',
         height: '70vh',
         width:"auto",
-        backgroundImage: 'url("/public/images/photo2.jpg") ', 
+        backgroundImage: 'url("photo2.jpg") ', 
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundAttachment:"fixed",
