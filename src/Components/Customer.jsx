@@ -5,19 +5,19 @@ const customers = [
   {
     name: 'John Doe',
     time: "2015- 01 Jan ",
-    image: '/public/images/food1.jpg',
+    image: 'food1.jpg',
     description: 'Taste the delicious foods in Asia',
   },
   {
     name: 'Jane Smith',
     time: "2015- 01 Jan ",
-    image: '/public/images/food2.jpg',
+    image: 'food2.jpg',
     description: 'Taste the delicious foods in Asia',
   },
   {
     name: 'Alice Johnson',
     time: "2015- 01 Jan ",
-    image: '/public/images/food3.jpg',
+    image: 'food3.jpg',
     description: 'Taste the delicious foods in Asia',
   },
 ];
