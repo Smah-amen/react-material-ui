@@ -14,22 +14,22 @@ import GoogleIcon from '@mui/icons-material/Google';
 const CardUi = () => {
   const cardData = [
     {
-      image: "/public/images/imge 1.jpg",
+      image: "imge 1.jpg",
       title: "John Smooth",
       subtitle: "Restaurant Owner",
     },
     {
-      image: "/public/images/imge 2.jpg",
+      image: "imge 2.jpg",
       title: "Rebecca Welson",
       subtitle: "Head Chef",
     },
     {
-      image: "/public/images/imge 3.jpg",
+      image: "imge 3.jpg",
       title: "Kharl Branyt",
       subtitle: "Chef",
     },
     {
-      image: "/public/images/imge 4.jpg",
+      image: "imge 4.jpg",
       title: "Luke Simon",
       subtitle: "Chef",
     },
